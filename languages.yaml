@@ -1,0 +1,27 @@
+en:
+  PLUGIN_HAZELCHAT:
+    CODE: Installation code
+    CODE_DESCRIPTION: Paste the installation code from Hazelchat (Install, step 2), or just its 64-character key. Every page then shows your chat agent. Anything else shows nothing, and Hazelchat's check will say it can't find the chat.
+    CODE_HELP: The key in this code is public; it names your agent and grants no access to your Hazelchat account.
+    CONSENT_LABEL: Wait for my consent manager
+    CONSENT_HELP: The chat starts only once your consent manager allows it. With Grav's Consent plugin this works on its own; with another, see hazelchat.co/integrations/grav/#consent.
+    CONSENT:
+      DESCRIPTION: Answers your questions about this website from its published content, and passes on your enquiry if you leave one. Sets no cookies.
+      CHAT: Lets the conversation continue on other pages of this website in the same tab (kept by the chat window on app.hazelchat.co).
+      OPENER: Shows a greeting at most once. No identifier.
+      FORGET: Set after you refuse or withdraw consent, so the chat forgets the conversation. No identifier.
+      UNTIL_TAB_CLOSED: Until you close the tab
+
+de:
+  PLUGIN_HAZELCHAT:
+    CODE: Installationscode
+    CODE_DESCRIPTION: Fügen Sie den Installationscode aus Hazelchat ein (Installieren, Schritt 2) oder nur seinen 64-stelligen Schlüssel. Dann zeigt jede Seite Ihren Chat-Agenten. Alles andere zeigt nichts, und Hazelchats Prüfung meldet, dass der Chat nicht gefunden wurde.
+    CODE_HELP: Der Schlüssel in diesem Code ist öffentlich. Er benennt Ihren Agenten und gewährt keinen Zugriff auf Ihr Hazelchat-Konto.
+    CONSENT_LABEL: Auf meinen Consent-Manager warten
+    CONSENT_HELP: Der Chat startet erst, wenn Ihr Consent-Manager es erlaubt. Mit Gravs Consent-Plugin geschieht das von selbst; für andere siehe hazelchat.co/de/integrations/grav/#consent.
+    CONSENT:
+      DESCRIPTION: Beantwortet Ihre Fragen zu dieser Website aus ihren veröffentlichten Inhalten und leitet Ihre Anfrage weiter, wenn Sie eine hinterlassen. Setzt keine Cookies.
+      CHAT: Damit das Gespräch auf anderen Seiten dieser Website im selben Tab weiterläuft (gespeichert vom Chatfenster auf app.hazelchat.co).
+      OPENER: Zeigt eine Begrüßung höchstens einmal. Ohne Kennung.
+      FORGET: Wird nach einer Ablehnung oder einem Widerruf gesetzt, damit der Chat das Gespräch vergisst. Ohne Kennung.
+      UNTIL_TAB_CLOSED: Bis zum Schließen des Tabs

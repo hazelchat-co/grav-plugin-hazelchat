@@ -1,0 +1,5 @@
+enabled: true
+# The installation code from Hazelchat, or just its 64-character key.
+code: ''
+# true: the chat starts only once the visitor's consent allows it.
+consent: false
