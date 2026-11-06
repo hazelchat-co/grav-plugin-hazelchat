@@ -1,3 +1,11 @@
+# v1.0.1
+## 2026-11-06
+
+1. [](#improved)
+    * README: says how Hazelchat counts installations of this plugin
+    * README: says plainly that `widget.js` still loads before consent when "Wait for my consent manager" is on, so the visitor's IP address reaches Hazelchat first
+    * README: advises sites with strict privacy rules to turn that switch on
+
 # v1.0.0
 ## 2026-11-01
 

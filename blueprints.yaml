@@ -1,7 +1,7 @@
 name: Hazelchat
 slug: hazelchat
 type: plugin
-version: 1.0.0
+version: 1.0.1
 description: Adds your Hazelchat AI chat agent to every page. It answers visitors from the pages you approved, shows its sources and passes on their enquiries.
 icon: comments
 author:
